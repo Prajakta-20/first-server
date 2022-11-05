@@ -1,0 +1,19 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "Creating first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajakta-20/first-server.git"
+  },
+  "author": "Prajakta Vanjare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prajakta-20/first-server/issues"
+  },
+  "homepage": "https://github.com/Prajakta-20/first-server#readme"
+}
